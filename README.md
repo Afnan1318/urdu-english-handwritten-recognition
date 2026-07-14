@@ -1,5 +1,5 @@
 # Multilingual Handwriting Recognition (Urdu & English)
-**Authors:** Afnan Ijaz & Hasnain Sherazi
+**Authors:** Afnan Ijaz
 *BS Artificial Intelligence — Machine Learning Course Project*
 
 ---
